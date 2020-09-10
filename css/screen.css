@@ -1117,3 +1117,9 @@
        border: 4px white solid;
        border-radius: 15px;
    }
+
+@media only screen and (max-width: 600px) {
+  h3 {
+      font-size: 1.3em !important;
+  }
+}
