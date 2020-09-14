@@ -526,9 +526,6 @@
        padding-bottom: 4rem;
        padding-top: 4rem;
        height: 70%;
-       word-break: break-word;
-       hyphens: auto;
-   
    }
    
    /* Add a little circle in the middle of the border-bottom on our .post
